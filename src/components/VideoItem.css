@@ -1,0 +1,8 @@
+.video-item {
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+    justify-items: center !important;
+    width: 350px;
+    margin-left: 30px;
+}
